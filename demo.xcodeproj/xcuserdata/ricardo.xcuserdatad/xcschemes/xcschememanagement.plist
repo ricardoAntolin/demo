@@ -9,6 +9,59 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>network.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>realm copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>realm.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8CB23D62220322980043263D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB23D782203229A0043263D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB23D832203229A0043263D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB23D9A220322FA0043263D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB23DA2220322FA0043263D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB23DBD220323130043263D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB23DC5220323130043263D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
